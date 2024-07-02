@@ -1,6 +1,6 @@
 # Fashion-Trend-Analysis-Using-AI
 
-This project involves fine-tuning OpenAI's CLIP model to generate text descriptions from fashion images and analyze current fashion trends. Then, the generated descriptions are conbined with LLms to offer insight about fashion trends.
+This project involves fine-tuning OpenAI's CLIP model to generate text descriptions from fashion images and analyze current fashion trends. Then, the generated descriptions are combined with LLms to offer insight about fashion trends.
 
 ## Key Features
 
